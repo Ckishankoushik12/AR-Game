@@ -18,6 +18,9 @@
 
 [https://drive.google.com/file/d/1a_sLeGNj_Yd1NzmU__iW05zAkWAG5r8c/view?usp=sharing](https://drive.google.com/file/d/1a_sLeGNj_Yd1NzmU__iW05zAkWAG5r8c/view?usp=sharing)
 
+## Zip File
+[https://drive.google.com/file/d/1YMoU5ppAz11DKMxW3M24i0DtYlKYouGK/view?usp=sharing](https://drive.google.com/file/d/1YMoU5ppAz11DKMxW3M24i0DtYlKYouGK/view?usp=sharing)
+
 ## Usage
 Launch the app on any Android device.
 Keep a copy of AR Cards ready so that we can use our device to scan the AR Cards. Point your device's camera at the AR card.
