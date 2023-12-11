@@ -1,4 +1,5 @@
 # **DRAGON GAME**
+  Dragon AR is a groundbreaking augmented reality (AR) application that unleashes the magic of dragons into your everyday world. Immerse yourself in a captivating fusion of reality and fantasy as you scan dragon       images, bringing majestic creatures to life right before your eyes. This ReadMe provides instructions on how to use the app.
 
 ## How to Run this app on your local device?
 
